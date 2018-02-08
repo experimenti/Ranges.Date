@@ -21,8 +21,10 @@ For more information see:
 
 ## Installation
 
+Run the following in the nuget Package Manager Console:
+
 ```powershell
-nuget install Ranges.Date
+Install-Package Ranges.Date
 ```
 
 ## Full Example
