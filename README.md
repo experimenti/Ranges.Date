@@ -1,6 +1,8 @@
 
 # Ranges.Date
 
+![alt](https://travis-ci.org/gavynriebau/Ranges.Date.svg?branch=master)
+
 An extremely small library that provides a Range implementation for dates (DateRange).
 
 This is useful when you want to check if a DateTime is within a date range, e.g.
