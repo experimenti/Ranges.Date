@@ -1,4 +1,6 @@
 
 language: csharp
 solution: Ranges.sln
-
+script:
+  - xbuild /p:Configuration=Release Ranges.sln
+  - mono ./packages/xunit.runner.console.*/tools/net452/xunit.console.exe ./Ranges.Tests/bin/Release/Ranges.Tests.dll
