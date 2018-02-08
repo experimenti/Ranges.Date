@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ranges.Date</id>
+    <version>1.0.0</version>
+    <title>Ranges.Date</title>
+    <authors>Gavyn Riebau</authors>
+    <owners>Gavyn Riebau</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extremely small library that provides a DateRange implementation</description>
+    <summary>Extremely small library that provides a DateRange implementation</summary>
+    <projectUrl>https://github.com/gavynriebau/Ranges.Date</projectUrl>
+    <tags>Range Date DateRange</tags>
+  </metadata>
+</package>
