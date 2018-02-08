@@ -1,7 +1,7 @@
 
 # Ranges.Date
 
-![alt](https://travis-ci.org/gavynriebau/Ranges.Date.svg?branch=master)
+[![Build Status](https://travis-ci.org/gavynriebau/Ranges.Date.svg?branch=master)](https://travis-ci.org/gavynriebau/Ranges.Date)
 
 An extremely small library that provides a Range implementation for dates (DateRange).
 
